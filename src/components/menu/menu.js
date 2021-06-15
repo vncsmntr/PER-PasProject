@@ -10,9 +10,9 @@ function Menu() {
       </div>
       
       <div className="menu-links">
-        <a>Inicio</a>
-        <a>Membros</a>
-        <a>Sobre</a>
+        <a href="/">Inicio</a>
+        <a href="/">Membros</a>
+        <a href="/">Sobre</a>
       </div>
 
     </div>
